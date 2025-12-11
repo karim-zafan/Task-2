@@ -1,0 +1,13 @@
+:root{
+    --fc1:#FF5555;
+    --black:#000000;
+    --white:#FFFFFF;
+    --fc2:#81848A;
+    --border-color:linear-gradient(#16161600 ,#696969 , #16161600 );
+
+}
+
+.fc1{color: var(--fc1);}
+.fc-black{color: var(--black);}
+.fc-white{color: var(--white);}
+.fc2{color:var(--fc2);}
